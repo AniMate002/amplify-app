@@ -1,0 +1,1 @@
+export interface ISubscription { __typename: "Todo"; id: string; name: string; price: number; description?: string | null | undefined; createdAt: string; updatedAt: string; }
